@@ -1,2 +1,2 @@
 # ziplist
-E26 practice WOD
+E27 practice WOD
